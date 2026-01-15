@@ -9,8 +9,9 @@
 
 ### 📈 Data Insight
 > "Without data, you're just another person with an opinion." — W. Edwards Deming
+> 
 ### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Aneal07&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Elixrs&color=blue&style=flat)
 
 ### 📊 Contribution Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aneal07&theme=react-dark)
