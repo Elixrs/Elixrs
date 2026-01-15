@@ -7,25 +7,14 @@
 ![SQL](https://img.shields.io/badge/SQL-%2300748F.svg?style=for-the-badge&logo=database&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%234CAF50.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📈 Data Insight
+> "Without data, you're just another person with an opinion." — W. Edwards Deming
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Aneal07&color=blue&style=flat)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aneal07&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+### 📊 Contribution Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aneal07&theme=react-dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aneal07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+### ✍️ Data Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Aneal07&icon=2&color=4)](https://visitcount.itsvg.in)
-
-------
-
-Credit: [Aneal07](https://github.com/Aneal07)
-
-Last Edited on: 18/11/2023
