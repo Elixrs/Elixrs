@@ -1,6 +1,8 @@
 # 💫 About Me:
 🚀 Journeying Through: Currently diving deep into the Data Analisys ocean..<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Trying to find a perfect company to grow and become the person who helps and teach others.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the Analysis? Let's chat!<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
 
+🧑‍💼 : With a strong background in customer service and a passion for data analysis, I turn insights into action. I believe that understanding customer behavior through data can transform business strategies and improve experiences. I share tips, trends, and real-world examples on how data can elevate customer service and drive growth. If you're interested in making data work for your team and building better customer relationships, follow along. Let’s unlock the power of data together! 
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
